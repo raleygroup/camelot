@@ -1,0 +1,13 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for whitepulsecmy
+V,002b,"MagicQ 1";
+W,0006,"whitepulsecmy",0001,0003,0002,1042,00000010,00000011,00000012,0050,0100,0001,0080,0080,01f4,
+ff,ff,ff,
+00,00,00,
+
+00,00,00,
+00,00,00,
+
+0300000b,
+00000001,;
+

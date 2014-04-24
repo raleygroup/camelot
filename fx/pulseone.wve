@@ -1,0 +1,13 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for pulseone
+V,0035,"MagicQ 1";
+W,0002,"pulseone",0001,0001,0002,b003,00000000,00000005,00000000,0050,0100,0001,0080,0080,01f4,
+00,
+ff,
+
+00,
+00,
+
+0300000b,
+00000001,;
+

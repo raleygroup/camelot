@@ -1,0 +1,6 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for mytilt
+V,0010,"MagicQ 1";
+W,0001,"mytilt",0001,0001,0002,0000,       5,    ffff,    ffff,003c,00ff,0001,0000,0000,0000,
+00,ff,00,00,;
+

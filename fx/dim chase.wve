@@ -1,0 +1,13 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for Dim Chase
+V,0029,"MagicQ 1";
+W,0029,"Dim Chase",0001,0001,0002,9008,00000000,00000000,00000000,0050,0100,0001,0080,0080,01f4,
+00,
+ff,
+
+00,
+00,
+
+00000000,
+00000001,;
+

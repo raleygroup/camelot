@@ -1,0 +1,13 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for Ramp
+V,0029,"MagicQ 1";
+W,0006,"Ramp",0001,0001,0002,9001,0000000c,00000000,00000000,0050,0080,0001,0080,0080,01f4,
+00,
+ff,
+
+00,
+00,
+
+03000016,
+00000001,;
+

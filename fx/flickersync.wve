@@ -1,0 +1,10 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for flickersync
+V,0020,"MagicQ 1";
+W,0001,"flickersync",0001,0001,0001,020c,00000000,00000005,00000000,0010,0032,0000,0080,0080,0000,
+00,
+
+00,
+
+0300000b,;
+

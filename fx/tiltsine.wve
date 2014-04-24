@@ -1,0 +1,17 @@
+\ Tilt wave file with sine
+\
+\ Written by CPK 17/01/03
+\ Updated for attrib nos. 28/5/03
+\
+V,014,Tiger 1;
+
+W,0001,Tilt sine,1,1,4,0000,00000005,00000000,00000000,0050,0080,1,0080,0080,0,
+0,
+80,
+ff,
+80,
+1,
+2,
+1,
+2,
+0300001c,

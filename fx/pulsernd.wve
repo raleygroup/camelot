@@ -1,0 +1,17 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for pulsernd
+V,0014,"MagicQ 1";
+W,0001,"pulsernd",0001,0001,0004,0007,ffffffff,ffffffff,ffffffff,003c,00ff,0001,0000,0000,0000,
+ff,
+00,
+00,
+00,
+
+00,
+00,
+00,
+00,
+
+03000010,
+;
+

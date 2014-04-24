@@ -1,0 +1,13 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for Iris Chase
+V,0029,"MagicQ 1";
+W,0039,"Iris Chase",0001,0001,0002,9000,00000003,00000000,00000000,0050,0080,0001,0080,0080,01f4,
+80,
+ff,
+
+00,
+00,
+
+03000025,
+00000001,;
+

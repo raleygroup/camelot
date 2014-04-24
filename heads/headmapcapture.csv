@@ -1,0 +1,958 @@
+abstract ce8,,,4
+abstract clubrev,,,4
+abstract clubscan,,,4
+abstract colour,,,2
+abstract future1,,,4
+abstract future2,,,4
+abstract future3,,,4
+abstract galmoon,,,2
+abstract galstar,,,4
+abstract glad rev,,,4
+abstract gladiator,,,4
+abstract recscan,,,5
+abstract twister,,,2
+abstract vr8,,,4
+abstract vr8ce,,,4
+abstract vr8r,,,6
+abstract vr8rce,,,4,
+abstract vrxcol,,,4,
+abstract vrxglad,,,6,
+abstract vrxscan,,,6,
+abstract vrxstar,,,6,
+ac light chroma-qbw,A.C. Lighting,Chroma-Q Broadway,1,ChromaQBrd#
+ac light chroma-qcq1,A.C. Lighting,Chroma-Q CQ1/D,1,ChromaQ#
+ac light chroma-qm1,A.C. Lighting,Chroma-Q M1,1,ChromaQM1#
+ac light chroma-qm2,A.C. Lighting,Chroma-Q M2,1,ChromaQM2#
+ac light chroma-qm5,A.C. Lighting,Chroma-Q M5,1,ChromaQM5#
+ac light chroma-qm8,A.C. Lighting,Chroma-Q M8,1,ChromaQM8#
+acme mh6605,,,5,
+acme mh6606,,,6,
+american dj col250,,,2,
+american dj matrix,,,16,
+american dj mighty,,,6,
+american dj pat1200,,,17,ADJPatend1200#
+american dj pat1200,,,13,ADJPatend1200#
+american dj pat1200hi,,,17,ADJPatend1200#
+american dj patend,,,13,
+american dj themax,,,8,
+american dj xtreme,,,4,
+amptown washbeam,,,15,
+amptown washhp,,,10,
+amptown washhptv,,,12,
+amptown washhx,,,10,
+amptown controlite pml,,,9,
+amptown controlite pml2,,,12,
+amptown controlite pmlhpw,,,10,
+amptown controlite pmlw,,,7,
+avr ledion,AVR Ledion,600 x 600 x 44,4,
+avr ledion,AVR Ledion,300 x 300 x 44,4,
+avr ledion,AVR Ledion,600 x 300 x 44,4,
+avr ledion,AVR Ledion,600 x 600 x 100,4,
+borealis sl750,,,3,
+cameleon telescan,,,20,
+chroma q goborot,,,2,
+cirro lightstrike,,,2,
+city theat autoyoke,City Theatrical,AutoYoke Ellipsoidal,5,CT_S4Yoke#8E
+city theat autoyokehr,City Theatrical,AutoYoke Ellipsoidal,7,CT_S4Yoke#16E
+city theat autoyokehr,City Theatrical,AutoYoke PARnel,7,CT_S4PNYoke#16E
+clay paky astrascan,,,13,
+clay paky astrorag,,,1,
+clay paky col150,,,4,
+clay paky col250,,,4,
+clay paky col400,,,4,
+clay paky col575,,,4,
+clay paky col575mh,,,8,
+clay paky colw300,,,2,
+clay paky combi300,,,4,
+clay paky gc1200,,,8,
+clay paky gc1200hi,,,10,
+clay paky gs1200,Clay Paky,Golden Spot 1200,10,GoldSpot1200#8_NoRain_CL_G16
+clay paky gs1200hi,Clay Paky,Golden Spot 1200,13,GoldSpot1200#16_NoRain_CL_G16
+clay paky gs2,Clay Paky,Golden Scan 2 HMI 1200W,6,GoldenScan2#
+clay paky gs3,Clay Paky,Golden Scan 3,6,GoldenScan3#6ch
+clay paky gs3-8c,,,8,GoldenScan3#8ch
+clay paky hpe,Clay Paky,Golden Scan HPE,12,GoldenScanHPE#
+clay paky minihpe,,,7,MiniScanHPE#
+clay paky miniscan,,,4,MiniScan#
+clay paky pinscan,,,3,PinScan#
+clay paky profplus,,,33,
+clay paky sl300,Clay Paky,Stage Light 300,8,StageLt300#8_2
+clay paky sl300hi,Clay Paky,Stage Light 300,10,StageLt300#16_2
+clay paky sscanzoom,,,12,StageZm1200#8_C1_G2_CMY
+clay paky sscanzoomhi,,,16,StageZm1200#16_C1_G2_CMY
+clay paky stgcol1000,Clay Paky,Stage Color 1000,9,StageCol1000#8
+clay paky stgcol1000hi,Clay Paky,Stage Color 1000,14,StageCol1000#16
+clay paky stgcol1200,Clay Paky,Stage Color 1200,12,StageCol1200#8_CMY
+clay paky stgcol1200hi,Clay Paky,Stage Color 1200,14,StageCol1200#16_CMY
+clay paky stgcol300,,,8,StageCol300#8
+clay paky stgcol300hi,,,10,StageCol300#16
+clay paky stgcol575,,,12,StageCol575#8_CMY
+clay paky stgcol575hi,,,14,StageCol575#16_CMY
+clay paky stgprof,,,19,SP1200SVE#16_Loff_CL
+clay paky stgscan16c,Clay Paky,Stage Scan,16,
+clay paky stgscan17c,Clay Paky,Stage Scan,17,StageScan#roll
+clay paky supscan,,,12,
+clay paky supscanmrg,,,12,
+clay paky tigscan,,,6,
+clay paky tornado,,,8
+clay paky zoom1200,Clay Paky,Stage Zoom 1200,16
+clay paky zoom1200hi,Clay Paky,Stage Zoom 1200,19
+clay paky zoom1200sv,Clay Paky,Stage Zoom 1200,20
+coef color,,,5
+coef colorfres,,,3
+coef disco1200,,,8
+coef mp250f6c,,,6
+coef mp250f8c,,,8
+coef mp250f9c,,,9
+coef mp250z,,,9
+coef mp700e,,,15
+coef mp700m,,,14
+coef mp700w,,,16
+coef p200,,,8
+coef p250,,,6
+coef p250dv,,,6,
+coef p250dvp,,,8,
+coef p250dvp+,,,9,
+coef p250rg,,,6,
+coemar 1000al,,,6,
+coemar 575msr,,,6,
+coemar baby col,,,2,
+coemar bcpro,,,2,
+coemar broadway,,,5,
+coemar cf1200,Coemar,CF 1200,13,CF1200SP#Cstd
+coemar cf1200he,Coemar,CF 1200 Hard Edge,20,CF1200HE#Cspec_R_spec_G_spec
+coemar cf6,,,12,
+coemar cf7he,Coemar,CF 7 Hard Edge X,21,CF7HE#21_G1spec_G2spec_385
+coemar cf7hex,Coemar,CF 7 Hard Edge X,20,CF7HEx#20_G1spec_G2spec_385
+coemar cf7wzx,,,13,CF7WZX#spec_diff
+coemar cf7z,,,13,CF7WZ#spec_385
+coemar colcyc250,Coemar,Color Cyc 250 LX,6,ColourCyc250LX#
+coemar colorbeam,,,5,
+coemar comet,,,5,
+coemar compact,,,10,
+coemar crono,,,9,
+coemar digiscan,,,16,
+coemar digiscan,,,16,
+coemar htscan,,,16,
+coemar ispot150,Coemar,iSpot 150,13,
+coemar ispot150hi,,,17,
+coemar ispot575,Coemar,iSpot 575,20,iSpot575#Lin
+coemar ispot575eb,Coemar,iSpot 575 EB,22,iSpot575EB#Lin
+coemar iwash,Coemar,iWash 575 EB,16,iWash575EB#
+coemar iwashflex,Coemar,iWash Flex,22,iWashFlex#Clear
+coemar kp12,,,9,
+coemar kp12,,,9,
+coemar miniu1,,,6,
+coemar miniu1sr,,,6,
+coemar miniu2,,,8,
+coemar mm1200,,,10,
+coemar mm1200dxp,,,13,
+coemar mm1200z,,,18,
+coemar mm1200zhi+f104,,,20,
+coemar mm2500,,,18,
+coemar mm2500hi,,,20,
+coemar mmz3,,,20,
+coemar pan,,,5,
+coemar pancyc250,Coemar,Panorama Cyc 250 C,4,PanoramaCyc250#
+coemar pancycpow,Coemar,Panorama Cyc Power,6,PanCycPower#
+coemar panicyc,Coemar,iCyc 250,6,iCyc250#
+coemar panicyc,Coemar,iCyc 250 Rectangular,6,iCyc250#
+coemar panmscan2,,,6,
+coemar pc1000,,,8,
+coemar pc1200,,,9,
+coemar prospot150,Coemar,ProSpot 150 LX,13,ProSpot150LX#
+coemar prospot575,Coemar,ProSpot 575 LX,16,ProSpot575LX#Lin
+coemar prospotlx,Coemar,ProSpot 250 LX,16,
+coemar prowash,Coemar,ProWash 250 LX,16,
+coemar prowash575,Coemar,ProWash 575 LX,16,
+coemar prowashlx,,,14,
+coemar saetta,,,2,
+coemar supercyc,Coemar,SuperCyc 2.4,11,SuperCyc2_4#
+coemar synchro2,,,3,
+coemar tm1200,,,20,MM1200_1530#C20T104Gspec
+coemar tm1200dx,,,12,
+coemar tm2500,,,21,MM2500_1530#C20T104Gspec
+coemar tm4000,,,21,MM4000_816#C20T104Gspec
+coemar tx360,,,10
+coemar tx360b,,,10
+coemar verscol,,,5
+columbus columbus,,,7
+columbus pro3,,,12
+compulite whisperal,compulite,Mini Whisper,1
+compulite whisperal,compulite,"Whisper 12""",1
+compulite whisperal,compulite,Whisper 8-Lite,1
+compulite whisperal,compulite,Whisper AL,1
+compulite whisperal,compulite,Whisper B,1
+compulite whisperal,compulite,Whisper C,1
+compulite whisperal,compulite,Whisper D/1kW,1
+compulite whisperal,compulite,Whisper D/2kW,1
+compulite whisperal,compulite,Whisper XL,1
+compulite luna,Compulite,Luna,5
+compulite luna,Compulite,Nova Compact,5
+compulite luna,Compulite,Nova Long,5
+constella astra,,,4
+cxi colindx,,,2
+cxi colmix,,,3
+cxi colmixd,,,3
+desisti leonardo,,,12
+desisti telescope,,,8
+dha bl2,,,6
+dha bl2hi,,,10
+dha control,,,8
+discotech spinhead,,,8
+diversitronic 3000strb,,,2
+dts bravoscan3,,,11
+dts colchnge,,,4
+dts easyscan,,,6
+dts etnalight,,,11
+dts fog2400,,,2
+dts movielight,,,11
+dts strobo,,,2
+dts xr7,,,16
+eee tracdriver,,,8
+effect co+c34 cojet,,,5
+elation col250,,,16
+elation col575,,,16
+elation colspot150,,,8
+elation spot250,,,16
+elation spot575,,,16
+elite serve col250,,,16
+elite serve col575,,,16
+elite serve scan,,,16
+elite serve spot250,,,16
+elite serve spot575,,,16
+elite serve zoom250,,,16
+ETC Source4Revolution,etc,Revolution,31
+eurocolour2  ecolor,,,3
+eurotech euro mk5,,,9
+eurotech euroscan,,,19
+eurotech strobocol,,,3
+fal 360-1200,,,20
+fal 360col,,,10
+fal 360laser,,,14
+fal 360pb,,,10
+fal acrobat,,,2
+fal colchange,,,2
+fal coldance,,,2
+fal colspot,,,1
+fal fal360,,,8
+fal fal360m3,,,12
+fal fal360m4,,,15
+fal fiblight,,,2
+fal gobostar,,,2
+fal grcol,,,2
+fal huricane,,,4
+fal mechdim,,,2
+fal modulo,,,10
+fal mstrcol,,,2
+fal nocturno,,,5
+fal promo2,,,6
+fal promo3,,,6
+fal proscan,,,11
+fal proscan2,,,12
+fal roul1200,,,8
+fal roul1200+,,,13
+fal roul1200i,,,8
+fal roul1200p,,,15
+fal roul575,,,6,
+fal scan575,,,6,
+fal stageyoke,,,6,
+fal tricol,FLY,Trichroma,5,
+fly fos,,,12,
+fly ticho,,,4,
+futurelight adscan,,,11,
+futurelight cc200,,,4,
+futurelight dominator,,,12,
+futurelight domp1,,,2,
+futurelight domp2,,,2,
+futurelight domp2,,,8,
+futurelight gscan,,,8,
+futurelight h150,,,4,
+futurelight lightduke,,,8,
+futurelight mh420,,,8,MH420#M1
+futurelight mh640,,,14,MH640#8
+futurelight mh640hi,,,16,MH640#16
+futurelight mh660,FutureLight,MH660,16,MH660#16
+futurelight mh680,,,16,MH680#8M1
+futurelight mh840,,,16,MH840#16
+futurelight mh860,,,16,MH860#16
+futurelight mh880,,,16,
+futurelight miracle,,,4,
+futurelight phs250,,,14,
+futurelight psd200,,,8,
+futurelight psd200hi,,,11,
+futurelight sc240,,,4,
+futurelight sc250,,,6,
+futurelight sc370,,,4,
+futurelight sc380,,,6,
+futurelight sc570,,,10,
+futurelight sc740,,,13,
+futurelight sc780,,,16,
+futurelight sc980,,,16,
+generic dimmer,Generic,PAR 64,1,dimmer
+generic dimmer,ADB,DN 105,1,
+generic dimmer,ADB,DS 105,1,
+generic dimmer,ADB,DSN 105,1,
+generic dimmer,ADB,DVW 105,1,
+generic dimmer,ADB,DW 105,1,
+generic dimmer,ADB,WARP 15° - 30°,1,
+generic dimmer,ADB,WARP 25° - 50°,1,
+generic dimmer,ADB,ACP 1001,1,
+generic dimmer,ADB,F 201,1,
+generic dimmer,ADB,F 101,1,
+generic dimmer,ADB,F 51,1,
+generic dimmer,ADB,SLW 220,1,
+generic dimmer,ADB,SLW 440,1,
+generic dimmer,ADB,Softlux 110,1,
+generic dimmer,ADB,Softlux 220,1,
+generic dimmer,ADB,Softlux 330,1,
+generic dimmer,ADB,Softlux 36,1,
+generic dimmer,ADB,Softlux 440,1,
+generic dimmer,ADB,Svoboda HT2251,1,
+generic dimmer,ADB,A 56 C,1,
+generic dimmer,ADB,C 101,1,
+generic dimmer,ADB,C 201,1,
+generic dimmer,ADB,C 203,1,
+generic dimmer,ADB,C 51,1,
+generic dimmer,ADB,C 103,1,
+generic dimmer,ADB,DS 205,1,
+generic dimmer,ADB,DS 51,1,
+generic dimmer,ADB,DS 54,1,
+generic dimmer,ADB,DVW 205,1,
+generic dimmer,ADB,DW 54,1,
+generic dimmer,ADB,HMZ 112 D,1,
+generic dimmer,ADB,HMZ 115 D,1,
+generic dimmer,ADB,HMZ 212 D,1,
+generic dimmer,ADB,HMZ 215 D,1,
+generic dimmer,ADB,HPZ 112 D,1,
+generic dimmer,ADB,HPZ 115 D,1,
+generic dimmer,ADB,HPZ 211 D,1,
+generic dimmer,ADB,HPZ 211 X,1,
+generic dimmer,ADB,HPZ 215 D,1,
+generic dimmer,ADB,HPZ 215 X,1,
+generic dimmer,ADB,HPZ 2511 D,1,
+generic dimmer,ADB,HPZ 2515 D,1,
+generic dimmer,ADB,HZU 208 D,1,
+generic dimmer,ADB,HZU 2508 D,1,
+generic dimmer,ADB,MZU 106 D,1,
+generic dimmer,ADB,SLW 220,1,
+generic dimmer,ADB,SLW 440,1,
+generic dimmer,ADB,Softlux 110,1,
+generic dimmer,ADB,Softlux 220,1,
+generic dimmer,ADB,Softlux 330,1,
+generic dimmer,ADB,Softlux 36,1,
+generic dimmer,ADB,Softlux 440,1,
+generic dimmer,Selecon,Pacific 23° - 50°,1,
+generic dimmer,ETC,Source Four PAR,1,
+generic dimmer,CCT Lighting,Minuette Fresnel,1,
+generic dimmer,CCT Lighting,Starlette Fresnel,1,
+generic dimmer,CCT Lighting,Turbo Silhouette Z00TX,1,
+generic dimmer,Compulite,Corona L,1,
+generic dimmer,Compulite,Corona M,1,
+generic dimmer,Compulite,Corona S,1,
+generic dimmer,Compulite,Corona XL,1,
+generic dimmer,ETC,Source Four PAR,1,S4Rev#I_F_ChF
+generic dimmer,ETC,Source Four 10°,1,
+generic dimmer,ETC,Source Four 19°,1,
+generic dimmer,ETC,Source Four 26°,1,
+generic dimmer,ETC,Source Four 36°,1,
+generic dimmer,ETC,Source Four 50°,1,
+generic dimmer,ETC,Source Four 5°,1,
+generic dimmer,ETC,Source Four jr Zoom,1,
+generic dimmer,ETC,Source Four Zoom 15° - 30°,1,
+generic dimmer,ETC,Source Four Zoom 25° - 50°,1,
+generic dimmer,Generic,4-Light,1,
+generic dimmer,Generic,8-Light,1
+generic dimmer,Generic,Flame,1
+generic dimmer,Generic,PAR 16,1
+generic dimmer,Generic,PAR 20,1
+generic dimmer,Generic,PAR 36 Long Nose,1
+generic dimmer,Generic,PAR 36,1
+generic dimmer,Generic,PAR 56,1
+generic dimmer,Generic,PAR 64 Short,1
+generic dimmer,Generic,PAR 64,1
+generic dimmer,Generic,Asymmetric 1kW - 2kW,1
+generic dimmer,Generic,Asymmetric 500W - 650W,1
+generic dimmer,Generic,Symmetric 1kW - 2kW,1
+generic dimmer,Generic,Symmetric 500W - 650W,1
+generic dimmer,Robert Juliat,Iris Frontmount,1
+generic dimmer,Robert Juliat,Brabo 8,1
+generic dimmer,Robert Juliat,611 SX,1
+generic dimmer,Robert Juliat,613 SX,1
+generic dimmer,Robert Juliat,614 SX,1
+generic dimmer,Robert Juliat,710 SX,1
+generic dimmer,Robert Juliat,710 SX2,1
+generic dimmer,Robert Juliat,713 SX,1
+generic dimmer,Robert Juliat,713 SX2,1
+generic dimmer,Robert Juliat,714 SX,1
+generic dimmer,Robert Juliat,714 SX2,1
+generic dimmer,Selecon,1200 Fresnel,1
+generic dimmer,Selecon,Acclaim Fresnel,1
+generic dimmer,Selecon,Arena Fresnel,1
+generic dimmer,Selecon,Compact Fresnel,1
+generic dimmer,Selecon,Acclaim PC,1
+generic dimmer,Selecon,Acclaim Condensor,1
+generic dimmer,Selecon,Pacific 12° - 28°,1
+generic dimmer,Selecon,Pacific 23° - 50°,1
+generic dimmer,Strand Lighting,Cantata,1
+generic dimmer,Strand Lighting,Alto 20° - 38°,1
+generic dimmer,Strand Lighting,Optique 15° - 42°,1
+generic dimmer,Strand Lighting,Optique 8° - 17°,1
+generic dimmer,Strand Lighting,Prelude 16° - 30°,1
+generic dimmer,Strand Lighting,Prelude 28° - 40°,1
+generic led3chan,Generic,RGB Led Pixel,3
+generic led3chan,Generic,RGB Led Round Pixel,3
+generic led4chan,Generic,RGB Panel,4
+generic led3chanhtp,,,3
+generic led4chan,,,4
+generic scroller,,,
+generic smoke,,,
+geni colblast,,,2
+geni mojocol,,,1
+geni mojos1,,,3
+geni mojos2,,,4
+geni mojos3,,,4
+geni mz12,,,11
+geni nimbus ii,,,4
+geni oby5,,,16
+geni shiva250,,,4
+geni shiva250r,,,6
+geni stratus,,,9
+genius coleco,,,4
+genius colgobo,,,4,
+genius colpro,,,5,
+genius mammut,,,6,
+genius microl,,,5,
+genius micscan,,,6,
+genius mizar,,,6,Mizar#
+genius mizar2,,,6,Mizar2#
+genius motcol,,,14,
+genius motshow,,,14,
+genius motspot,,,6,
+genius nextr150,,,6,
+genius nextr250,,,6,
+genius nexts150,,,6,
+genius nexts250,,,6,
+genius nexus2,,,6,
+genius nexus3,,,8,
+genius nexushr,,,12
+genius omega,,,6
+genius omega2,,,10
+genius quasar,,,6
+genius rainbow,,,4
+genius topscan,,,14
+genius zapper,,,6
+glp pocketscan,,,7,PocketScan#GLP
+glp star1200,,,12
+glp star150,,,7
+glp ypoccol,,,14
+glp ypocspot,,,14
+griven acr,,,6
+griven acr250,,,8
+griven acr575,,,14
+griven acrfe,,,8
+griven acrfres,,,6
+griven compass,,,8
+griven imperial,,,2
+griven kaleido,,,5
+griven kolorado,,,5
+griven kolorado2,,,5
+griven kolorado2,,,5
+griven kolorjet,,,7
+griven kolstream,,,6
+griven popscan,,,8
+griven scanvis2,,,6
+griven scanvis2,,,8
+griven scanvis3,,,14
+high end af1000,,,3
+high end c16,,,2
+high end cat1,,,33
+high end cat2,,,23
+high end catmir,,,6,
+high end colorfx,,,9,
+high end colorhx,,,9,
+high end colorhxi,,,9,
+high end cyber1,High End,Cyberlight,20,CyberSV#M1
+high end cyber2,High End,Cyberlight,20,CyberSV#M1
+high end cyber3,High End,Cyberlight,15,
+high end dataflash,,,3,
+high end ec-1,,,12,EC1#16
+high end ec-2,,,8,EC2#
+high end es-1,,,20,ES1#
+high end ibeam,,,13,Ibeam#13
+high end ibeam,,,8,Ibeam#8
+high end sbeampc,High End,Studio Beam,16,StudioBeam#
+high end scol,High End,Studio Color,16,SColor575M#
+high end scol,High End,,16,SColor575S#
+high end scol250,High End,Studio Color 250,15,SColor250#
+high end sspot,High End,Studio Spot,24,SSpot#
+high end sspot250,High End,Studio Spot 250,18,SSpot250#
+high end sspotz,High End,,24,SSpotZ#
+high end sspotcmy,High End,Studio Spot CMY,24,SSpotCMY#
+high end sspotcmyzoom,High End,,24,SSpotCMYZ#
+high end tbeam,High End,Technobeam,14,Techno#SetR_N
+high end tbeamhi,High End,Technobeam,18,Techno#SetF_N
+high end tbeami,,,18,Techno-i#SetF_N
+high end tpro,,,12,
+high end tray,,,12,
+high end trayhi,,,14,
+high end tspot,High End,Trackspot,7,Trackspot#
+high end xspot,High End,x.Spot,38,xSpot#Full/1_1/2_1/3_1
+high end xspot,High End,x.Spot,38,xSpotXT#Full/1_1/2_1/3_1
+high end xspotr,High End,x.Spot,28,xSpot#Red/1_1/2_1/3_1
+high end xspotr,High End,x.Spot,28,xSpotXT#Red/1_1/2_1/3_1
+hubbell heluxspote,,,11,
+hubbell heluxspotf,,,19,
+hubbell heluxspots,,,14,
+hubbell heluxwashe,,,10,
+hubbell heluxwashf,,,15,
+irideon ar500,,,4,
+irideon ar6,,,13,
+jem glaciator,,,2,
+jem roadie,,,2,
+jt eng pl1044,,,27,
+jt eng plchase,,,10,
+jt eng pp660,,,3,
+labscan labscan,,,8,
+lampo columb,,,6,
+lampo hmi 575,,,2,
+lanzini dallas,,,7
+laserage laserage1,,,18
+laserage laserage2,,,10
+le maitre g300,,,2
+le maitre g300b,,,2
+le maitre neutron,,,1
+led mh575,,,12
+licht technik colscroll,,,3
+licht technik myoke11c,,,11
+licht technik myoke14c,,,14
+licht technik myoke5c,,,5
+licht technik myoke9c,,,9
+licht technik shutter,,,2
+light curtain lc,,,2
+lighting inov myoke,,,7
+lighting inov myokehmi,,,9
+mad axis250,,,8
+mad col211ap,,,2
+mad col311,,,3
+mad itmcol,,,3
+mad itmrscan,,,6
+mad itmrstar,,,5
+mad itmscan,,,5
+mad itmstar,,,4
+mad qscan,,,5
+mad qstar,,,4
+mad scan,,,6
+mad scan411,,,4
+mad star311,,,5
+map shyscrp,,,3
+martin acrobat,,,6
+martin ailenm1,,,7
+martin ailenm2,,,9,
+martin ailenm3,,,14,
+martin atomic3c,Martin,Atomic Strobe 3000,3,Atomic3000#3
+martin atomic4c,Martin,Atomic Strobe 3000,4,Atomic3000#4
+martin cmy150,,,7,
+martin colorpro,,,3,
+martin cx-2,Martin,CX-2,4,
+martin cx-4,Martin,CX-4,6,
+martin destroy,,,5,
+martin exterior200,Martin,Exterior 200 Long Barrel 12°,7,MartinEXT200#
+martin exterior200,Martin,Exterior 200 Long Barrel 22,7,MartinEXT200#
+martin exterior200,Martin,Exterior 200,7,MartinEXT200#
+martin exterior600,Martin,Exterior 600 Compact,5,
+martin exteriorm1,Martin,Exterior 600,8,MartinEXT600#M1
+martin exteriorm2,Martin,Exterior 600,9,MartinEXT600#M2
+martin imagescan,Martin,Image Scan,7,
+martin imagescanhi,Martin,Image Scan,9,
+martin mac1200m2,Martin,MAC 1200,12,Mac1200#M2
+martin mac1200m4,Martin,MAC 1200,14,Mac1200#M4
+martin mac2000p,Martin,MAC 2000 Profile,24,Mac2000E#16BitV1.5LS
+martin mac2000p,Martin,MAC 2000 Profile II,24,Mac2000E#16BitV1.5LS
+martin mac2000pf,Martin,MAC 2000 Performance,28,Mac2000PE#8Bit
+martin mac2000pfh,Martin,MAC 2000 Performance,31,Mac2000PE#16Bit
+martin mac2000w,Martin,MAC 2000 Wash,21,Mac2000WA#16Bit
+martin mac250+m2,Martin,MAC 250+,11,Mac250+#M2
+martin mac250+m4,Martin,MAC 250+,13,Mac250+#M4
+martin mac250enm2,Martin,MAC 250 Entour,15,Mac250Entour#16
+martin mac250enm4,Martin,MAC 250 Entour,18,Mac250Entour#16EX
+martin mac250K,Martin,MAC 250 Krypton,14,Mac250Krypton#16
+martin mac250KEx,Martin,MAC 250 Krypton,17,Mac250Krypton#16EX
+martin mac250m1,Martin,MAC 250,9,Mac250#M1
+martin mac250m2,Martin,MAC 250,11,Mac250#M2
+martin mac250m3,Martin,MAC 250,11,Mac250#M3
+martin mac250m4,Martin,MAC 250,13,Mac250#M4
+martin mac300m1,Martin,MAC 300,9,Mac300#M1
+martin mac300m2,Martin,MAC 300,11,Mac300#M2
+martin mac300m4,Martin,MAC 300,13,Mac300#M4
+martin mac500m1,Martin,MAC 500,12,Mac500#M1_Gc_Ef
+martin mac500m2,Martin,MAC 500,14,Mac500#M2_Gc_Ef
+martin mac500m3,Martin,MAC 500,14,Mac500#M3_Gc_Ef
+martin mac500m4,Martin,MAC 500,16,Mac500#M4_Gc_Ef
+martin mac550basic,Martin,MAC 550,21,Mac550#Basic
+martin mac550ex,Martin,MAC 550,27,Mac550#Extended
+martin mac600m1,Martin,MAC 600,10,Mac600#M4
+martin mac600m2,Martin,MAC 600,12,Mac600#M4
+martin mac600m3,Martin,MAC 600,12,Mac600#M4
+martin mac600m4,Martin,MAC 600,14,Mac600#M4
+martin mac600nt,Martin,MAC 600 NT,15,Mac600NT#M4
+martin minmacm,Martin,MiniMac Maestro,11,MiniMacMaes#M1
+martin minmacp,Martin,MiniMac Profile,10,MiniMacPro#M1Fd
+martin minmacw,Martin,MiniMac Wash,8,MiniMacWash#M1Fd
+martin mx1,Martin,MX-1,6,MX1#6CH
+martin mx10,Martin,MX-10 Extreme,13,
+martin mx4-6c,Martin,MX-4,6,MX4#6CH
+martin mx4-7c,Martin,MX-4,7,MX4#7CH
+martin pal1200,Martin,Pal 1200,24,PAL1200#M2
+martin pal1200em1,Martin,Pal 1200 FX,16,PAL1200#M1
+martin pal1200em4,Martin,Pal 1200 FX,20,PALFX1200#M4
+martin pal1200m4,Martin,Pal 1200,26,PAL1200#M4
+martin pal1200t,,,24,
+martin pro1220m1,Martin,Roboscan Pro 1220 RPR,13,RoboScan1220#
+martin pro1220xr,Martin,Roboscan Pro 1220 XR,15,RoboScan1220#
+martin pro218-7c,Martin,Roboscan Pro 218 MKII,7,
+martin pro218hi,Martin,Roboscan Pro 218 MKII,8,RSPro218MKII#16_1
+martin pro218lo,Martin,Roboscan Pro 218 MKII,6,RSPro218MKII#8
+martin pro518,Martin,RoboScan Pro 518,9,RoboScan518#16bT
+martin pro518m1,Martin,RoboScan Pro 518,7,RoboScan518#8bT
+martin pro918m2,Martin,RoboScan Pro 918,14,RoboScan918#M2
+martin pro918m4,Martin,RoboScan Pro 918,16,RoboScan918#M4
+martin punish,,,6,
+martin qfx150,,,5,
+martin qx150,,,5,
+martin rii1220,,,12,
+martin rii1220e,,,15,
+martin rii1220r,,,12,
+martin rii1220re,,,16,
+martin rob1004,,,5,
+martin rob1012,,,12,
+martin rob1016,,,7,
+martin rob1020-12c,,,12,
+martin rob1020-16c,,,16,
+martin rob1220-12c,,,12,
+martin rob1220-13c,,,13,
+martin rob1220dm,,,16,
+martin rob1220m1,Martin,Roboscan Pro 1220 CMYR,15,RoboScan1220#
+martin rob1220m2,Martin,Roboscan Pro 1220 CMYR,17,RoboScan1220#
+martin rob1220m3,Martin,Roboscan Pro 1220 CMYR,17,RoboScan1220#
+martin rob1220m4,Martin,Roboscan Pro 1220 CMYR,19,RoboScan1220#
+martin rob1220n,,,12,
+martin rob1220rpr,Martin,Roboscan Pro 1220 RPR,17,
+martin rob812,Martin,RoboScan 812,7,RoboScan812#
+martin rob812m1,Martin,RoboScan 812,5,RoboScan812#
+martin robcol2,,,6,
+martin robcol3,,,6,
+martin robcolmsd,,,7,
+martin robcp,,,7,Robo400#M2
+martin robcp400,Martin,RoboColor Pro 400,5,Robo400#M1
+martin robcp400e,Martin,RoboColor Pro 400,7,Robo400#M2
+martin robozap,,,6,
+martin scx700m1,,,6,ManiaSCX700#M1_DimEn
+martin scx700m2,,,10,ManiaSCX700#M2_DimEn
+martin scx700m1nd,,,6,ManiaSCX700#M1DimDis
+martin scx700m2nd,,,6,ManiaSCX700#M2DimDis
+martin synchzap,,,6,
+martin wizard,Martin,Wizard,6,
+martin wizardhi,Martin,Wizard,8,
+morpheus aclbeam,,,7,
+morpheus briteburst,,,10,
+morpheus colfad3,,,2,
+morpheus colfad3d,,,2,
+morpheus faderbeam,,,8,
+morpheus pcspot,,,20,
+morpheus powersoft,,,12,
+morpheus powerspot,,,12,
+motor head motorhead,,,5,
+movitec sl250,Movitec,SL 250,16,
+movitec sl575,Movitec,SL 575,16
+movitec wl250,Movitec,WL 250,16
+movitec wl575,Movitec,WL 575,16
+neo r150,,,1
+nippon nipponcol,,,3
+njd datamoon,,,4
+njd microbeam,,,4
+njd predhx,,,4
+njd predmx,,,4
+njd spectre,,,8
+njd spectre3c,,,3
+optikenetics solar,,,7
+pan command cfader,,,3
+pan command cfader3,,,3
+pan command cfader4,,,4
+panscan panscan12c,,,12
+panscan panscan15c,,,15
+panscan panscan3c,,,3
+pearl river chameleon,PR Lighting,Chameleon,2
+pearl river mantis,,,3
+pearl river moon,PR Lighting,Moon,7
+pearl river moonmsd,,,6
+pearl river navigator,,,19
+pearl river nova,,,3
+pearl river pilot150,,,8
+pearl river pilot250,,,15
+pearl river pilot250w,,,10
+pearl river pilot300,,,10
+pearl river planet,,,6
+pearl river planetmsd,,,6
+pearl river spcecrft,,,3
+pearl river strobe,,,2
+pearl river thtrcol,,,3,
+pearl river thtrcollt,,,3,
+pixie pixie,,,6,
+psl rotoscan,,,6,
+pulsar light chromofix,,,3,
+pulsar light chromzone,,,6,
+rl rlcanvas,,,16,
+rl rlgrafix,,,24,
+rl rlmask,,,11,
+rl rlswitch,,,8,
+rl rltext,,,12,
+robe beam250,,,4,
+robe cm150,,,3,150ATWash#
+robe cm150prof,,,4,150ATProfile#
+robe cm250,,,12,ColorMix250#M1
+robe cs170,,,12,
+robe dj150,,,4,
+robe dj250,,,6,
+robe ecol250,,,6,
+robe recspot,,,12,
+robe recwash,,,8,
+robe scan1200,,,16,
+robe scan250,,,16,
+robe scan575,,,16,
+robe spot150,,,8,
+robe spot160,Robe,ClubSpot 160 CT,9,
+robe spot250,Robe,Spot 250 XT,16,Spot250XT#16_M1
+robe spot575,Robe,Spot 575 XT,16,Spot575XT#16_M1
+robe spot250at,Robe,Color Spot 250 AT,18,Spot250AT#M1
+robe spot575at,Robe,Color Spot 575 AT,27,Spot575AT#M1_SS
+robe spot1200at,Robe,Color Spot 1200 AT,24,Spot1200AT#M24_SS
+robe wash150,,,8,Wash150XT#16_M1
+robe wash250,Robe,Wash 250 XT,16,Wash250XT#16_M1
+robe wash250atm2,Robe,Color Wash 250 AT,16,
+robe wash250atm3,Robe,Color Wash 250 AT,20,
+robe wash575,Robe,Wash 575 XT,16,Wash575XT#16_M1
+robe zoom250,Robe,MSZoom 250 XT,16,
+rosco icue,,,4,
+sagitter actcol,,,4,
+sagitter digiflash,,,2,
+sagitter flexo,,,8,
+sagitter flexoc,,,8,
+sagitter flexos,,,8,
+sagitter hypercol,,,6,
+sagitter infclub,,,10,
+sagitter infclubhi,,,12,
+sagitter inflive,,,18,
+sagitter inflivehi,,,20,
+sagitter infmsz,,,12,
+sagitter infmszhi,,,14,
+sagitter infscan,,,10
+sagitter maskcz,,,10
+sagitter mini250,,,6
+sagitter movfx,,,16
+sagitter murales,,,5
+sagitter prince,,,6
+sagitter shop,,,4
+sagitter spot250,,,16
+sagitter spot575,,,16
+sagitter sprince,,,12
+sagitter tracer,,,5
+sagitter wash250,,,16
+sagitter wash575,,,16
+sgm colorlab,,,2
+sgm gal1,,,6
+sgm gal2,,,9
+sgm gal2hp,,,10,
+sgm gal2hphi,,,12,
+sgm gal3,,,12,
+sgm gal3hi,,,14,
+sgm gal4,,,16,Galileo4#SGM
+sgm gal4hi,,,18,Galileo4#SGM
+sgm galold,,,13,
+sgm galray,,,6,
+sgm giotb,,,18,
+sgm giots,,,18,
+sgm giots250,SGM,Giotto Spot 250,22,GSpot250#16_DIS_FL
+sgm giots400,SGM,Giotto Spot 400,22,GSpot400#16_LD_CMF_05/03
+sgm giotw,,,13,GWash400#8
+sgm giotw400,,,18,GWash400#16
+sgm lab250,,,6,
+sgm lab575,,,4,
+sgm leonard,,,6
+sgm newton,,,5
+sgm vicii,,,10
+sgm vicii+,,,13
+sgm vicii150,,,10
+sgm viciihi,,,12
+sgm victory,,,7
+sgm victoryhi,,,9
+showtec explorer250,showtec,Explorer Pro 250,16
+Showtec actsunstrm1,Showtec,Sunstrip Active Blinder,1,SunstripActiveBlinder#1
+Showtec actsunstrm10,Showtec,Sunstrip Active Blinder,10,SunstripActiveBlinder#10
+Showtec actsunstrm2,Showtec,Sunstrip Active Blinder,5,SunstripActiveBlinder#5
+Showtec actsunstrm5,Showtec,Sunstrip Active Blinder,2,SunstripActiveBlinder#2
+sls hellass,,,10
+sls hellasw,,,8
+space cannon blackdvl,,,8
+space cannon easy2000,,,10
+space cannon easytour,,,11
+space cannon focus1200,,,8
+space cannon ibis,,,15
+space cannon ibispro,,,15
+space cannon ireos,,,8,
+space cannon ireospro,Space Cannon,Ireos Pro VHT,15,IreosPro7K#dmx
+space cannon mil4000,,,9,
+space cannon milmov,,,10,
+space cannon setireos,,,8,
+space cannon tdmx,,,4,
+starlite mk2g,,,9,
+starlite mk5,,,19,
+starlite mk5z,,,19,
+strand pirouette,,,6,
+strong bigscan,,,12,
+strong col250,,,4,
+strong scan1200,,,6,
+strong scan150,,,4,
+strong scan250,,,6,
+strong scan300,,,4,
+strong scan300ro,,,6,
+studio due citybeam,,,7,CityBeam#7CH
+studio due citycolor6c,,,6,CityColour#6CH
+studio due citycolor7c,Studio Due,CityColor IP33,7,CityColour#7CH
+studio due citycolor7c,Studio Due,CityColor IP54,7,CityColour#7CH
+studio due deflect,,,7,
+studio due dominator,,,6,
+studio due exc700,,,20,
+studio due fehrenheit,,,2,
+studio due giant,,,6,Giant8#
+studio due gianthi,,,9,
+studio due live1200,,,16,LivePro#16_11
+studio due lpro1200,,,20,LivePro#20
+studio due lpro1200c2,,,22,
+studio due lpro1200lp,,,21,LivePro#21
+studio due magnum,,,6,
+studio due minibeam,,,6,
+studio due minicity,,,6,MiniCity#
+studio due minicityt,,,6,
+studio due predator,,,6,
+studio due shark,,,6,Shark#16
+studio due shark250,,,13,Shark250#16
+studio due spaceflower,,,6,
+studio due stratos,,,14,
+studio due washlight,,,7,
+summa hti,,,9,
+supervision supervision,,,3,
+syncrolite miniarc,,,14,
+syncrolite sbwash,,,7,
+syncrolite st3k,,,9,
+syncrolite st7k,,,9,
+syncrolite sunit,,,9,
+teclumen scan3d,,,7,
+terbly fl2501,,,14,
+terbly fl2501b,,,14,
+terbly fl2502,,,14,
+terbly fl5751,,,16,
+terbly fl5752,,,16,
+theatre projects skyart,,,7,
+trix mercury,,,8,
+turbo 700w,,,11,
+varilite vl1,,,6,
+varilite vl1000a,Vari-Lite,VL1000 Arc Iris,19,VL1000A#
+varilite vl1000as,Vari-Lite,VL1000 Arc Shutter,27,VL1000AS#
+varilite vl1000t,Vari-Lite,VL1000 Arc Iris,19,VL1000AI#
+varilite vl1000ts,Vari-Lite,VL1000 Arc Shutter,27,VL1000TS#Fixed
+varilite vl2000spoten,Vari-Lite,VL2000 Spot,15,VL2000Spot#M3
+varilite vl2000spotenhi,Vari-Lite,VL2000 Spot,17,VL2000Spot#M4
+varilite vl2000spotst,Vari-Lite,VL2000 Spot,12,VL2000Spot#M1
+varilite vl2000spotsthi,Vari-Lite,VL2000 Spot,14,VL2000Spot#M2
+varilite vl2000washen,Vari-Lite,VL2000 Spot,13,VL2000Wash#M3
+varilite vl2000washenhi,Vari-Lite,VL2000 Spot,15,VL2000Wash#M4
+varilite vl2000washst,Vari-Lite,VL2000 Spot,10,VL2000Wash#M1
+varilite vl2000washsthi,Vari-Lite,VL2000 Spot,12,VL2000Wash#M2
+varilite vl2201,Vari-Lite,VL2000 Spot,12,VL2201#M1
+varilite vl2201e,Vari-Lite,VL2000 Spot,15,VL2201#M3
+varilite vl2201ehi,Vari-Lite,VL2000 Spot,17,VL2201#M4
+varilite vl2201hi,Vari-Lite,VL2000 Spot,14,VL2201#M2
+varilite vl2402,,,10,VL2402#M1
+varilite vl2402e,,,13,VL2402#M3
+varilite vl2402ehi,,,15,VL2402#M4
+varilite vl2402hi,,,12,VL2402#M2
+varilite vl2416,,,10,VL2416#M1
+varilite vl2416e,,,13,VL2416#M3
+varilite vl2416ehi,,,15,VL2416#M4
+varilite vl2416hi,,,12,VL2416#M2
+varilite vl2500s,Vari-Lite,VL2500 Spot,22,VL2500Spot#
+varilite vl2500w,Vari-Lite,VL2500 Wash,15,VL2500Wash#
+varilite vl2c,,,14,VL2c#
+varilite vl3000spot,Vari-Lite,VL3000 Spot,28,VL3000Spot#
+varilite vl3000wash,Vari-Lite,VL3000 Wash,16,VL3000Wash#
+varilite vl3500spot,Vari-Lite,VL3500 Spot,31,VL3500Spot#
+varilite vl3500wash,Vari-Lite,VL3500 Wash,19,VL3500Wash#
+varilite vl4,,,15,VL4#
+varilite vl5-7c,Vari-Lite,VL5,7,VL5#M5De
+varilite vl5-9c,Vari-Lite,VL5,9,VL5#M6De
+varilite vl5arc7c,Vari-Lite,VL5Arc,7,VL5Arc#M5
+varilite vl5arc9c,Vari-Lite,VL5Arc,9,VL5Arc#M6
+varilite vl5arcm3,Vari-Lite,VL5Arc,10,VL5Arc#M3
+varilite vl5arcm4,Vari-Lite,VL5Arc,13,VL5Arc#M4
+varilite vl5ltp,Vari-Lite,VL5,7,VL5#M5De
+varilite vl5ltp9c,Vari-Lite,VL5,9,VL5#M6De
+varilite vl5m3,Vari-Lite,VL5,10,VL5#M3De
+varilite vl5m4,Vari-Lite,VL5,13,VL5#M3De
+varilite vl500-16e,vari-lite,vl500 Wash,13
+varilite vl500-16e,vari-lite,vl500A,13
+varilite vl500-16e,vari-lite,vl500D,13
+varilite vl500-16,vari-lite,vl500 Wash,10
+varilite vl500-16,vari-lite,vl500A,10
+varilite vl500-16,vari-lite,vl500D,10
+varilite vl500-8,vari-lite,vl500 Wash,8
+varilite vl500-8,vari-lite,vl500A,8
+varilite vl500-8,vari-lite,vl500D,8
+varilite vl6-7c,Vari-Lite,VL6,7,VL6#M5
+varilite vl6-9c,Vari-Lite,VL6,9,VL6#M6
+varilite vl6b,Vari-Lite,VL6B,14,VL6b#M5
+varilite vl6bm5,Vari-Lite,VL6B,17,VL6b#M6
+varilite vl6m3,Vari-Lite,VL6,10,VL6#M3
+varilite vl6m4,Vari-Lite,VL6,13,VL6#M4
+varilite vl7-17c,,,17,VL7#M7
+varilite vl7-20c,,,20,VL7#M8
+varilite vl7b-24c,,,24,VL7b#M10
+varilite vl7b-27c,,,27,VL7b#M9
+varilite vlm,,,7,
+varilite vlmm3,,,10,
+varilite vlmm6,,,9,
+varyscan pro1200,,,8,
+varyscan pro575,,,8,
+varyscan spesia,,,5,
+varyscan vs3,,,8,VaryScan3S#8
+varyscan vs4,,,11,
+varyscan vs4+,,,8,
+varyscan vs5-14c,,,14,
+varyscan vs5-22c,,,22,VS5MV#
+varyscan vs6-10c,,,10,VaryScan6_HMI#8
+varyscan vs6-12c,,,12,VaryScan6_HMI#16
+varyscan vsc,,,11,
+varyscan vsc2000,,,4,
+varyscan vsc6,,,11,
+vinciscan viniscan,,,4,
+wwg britelite,,,2,
+wwg fantome,,,20,
+wwg razor,,,20,
+wybron scroll,Wybron,Coloram II 10 Inch,1,
+wybron scroll,Wybron,Coloram II 15 Inch,1
+wybron scroll,Wybron,Coloram II 4 Inch,1
+wybron scroll,Wybron,Coloram II 7.5 Inch,1
+wybron scroll,Wybron,Coloram II 8 Light,1
+wybron scroll,Wybron,Coloram II Large Format,1
+x&y sys bim,,,7
+x&y sys zap,,,1
+x&y sys zap17c,,,17
+xeron scrolla,,,5
+xilver xvddhsi,,,11
+xilver xvddhsic,,,7
+xilver xvddrgb,,,12
+xilver xvddrgbc,,,8
+xilver xvdshsi,,,6
+xilver xvdshsic,,,5
+xilver xvdsrcg,,,7
+xilver xvdsrgbc,,,6

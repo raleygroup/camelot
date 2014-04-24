@@ -1,0 +1,11 @@
+\ MagicQ FX file.  Copyright Chamsys Ltd 2005 www.chamsys.co.uk
+\ FX file for flickerxfade
+V,0028,"MagicQ 1";
+W,0003,"flickerxfade",0001,0001,0001,010c,00000000,00000005,00000000,0010,0032,0001,0080,0080,0000,
+00,
+
+00,
+
+0300000b,
+00000001,;
+

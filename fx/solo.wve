@@ -1,0 +1,29 @@
+\ Solo - individual heads go wandering
+\ 8 steps including 2 vertical flips
+\
+\ Written by CPK 27/2/2000
+\ Updated for attrib nos. 28/5/03
+\
+\ id,name,num_heads,chans_per_head,num_steps,type,attrib1,attrib2,
+\ def_size,def_spread_coarse,def_val1,def_val2,p1
+
+V,014,Tiger 1;
+
+W,0009,Solo,1,2,8,0000,00000004,00000005,00000000,0050,00ff,1,0080,0080,0,
+00,10,
+ff,e0,
+80,80,
+80,80,
+80,80,
+80,80,
+80,80,
+80,80,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+03000019,

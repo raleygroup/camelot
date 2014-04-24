@@ -1,0 +1,49 @@
+\ Burst wave file
+\ 8 steps including 2 vertical flips
+\
+\ Written by CPK 27/2/2000
+\ Updated for attrib nos. 28/5/03
+\
+\ id,name,num_heads,chans_per_head,num_steps,type,attrib1,attrib2,
+\ def_size,def_spread_coarse,def_val1,def_val2,p1
+
+V,014,Tiger 1;
+
+W,0009,Burst3,2,2,8,0000,00000004,00000005,00000000,0050,00ff,0,0080,0080,0,
+00,80,
+00,e0,
+ff,c0,
+ff,40,
+00,20,
+00,c0,
+ff,a8,
+60,98,
+
+ff,80,
+80,e0,
+00,c0,
+00,40,
+ff,20,
+ff,c0,
+00,a8,
+a0,98,
+
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+0,0,
+
+03000020,
